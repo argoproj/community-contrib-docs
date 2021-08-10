@@ -11,8 +11,7 @@ focused on development & contributing documentation.
 ## Contributing to this repository
 
 We want to make contributing to this repository to be as easy as possible
-and everyone is invited to contribute in alignment to the Argo project's
-[Code of Conduct](CODE_OF_CONDUCT.md)
+and everyone is invited to contribute in alignment to the [CNCF Community Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
 We don't implement rigid review processes on your submissions to this repo,
 and neither do we run a huge chunk of CI jobs to validate the submissions.
